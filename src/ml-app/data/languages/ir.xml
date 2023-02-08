@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<translates>
+	<help>
+	   <help_Blur>The visual effect of this blurring technique is a smooth blur resembling that of viewing the image through a translucent screen, distinctly different from the bokeh effect produced by an out-of-focus lens or the shadow of an object under usual illumination.</help_Blur>
+	   <help_Invert>Invert the colors of image files, white becomes black, black becomes white, orange becomes blue and so on.</help_Invert>
+	   <help_Find_Edge>Edge detection is an image processing technique for finding the boundaries of objects within images. It works by detecting discontinuities in brightness.</help_Find_Edge>
+	   <help_Find_Color>You can click on the original image to pick a color. Then the original image is filtered such that it shows only the selected color.</help_Find_Color>
+	   <help_One_Pixel_Color>It shows the color based on the single channel. The channel can be Red, Green, Blue.</help_One_Pixel_Color>
+	   <help_Saturation_Contrast>Contrast is the difference between light and dark tones. You can also think of it as the separation between the shadows and highlights. Saturation is similar to contrast, however instead of increasing the separation between shadows and highlights, we increase the separation between colors.</help_Saturation_Contrast>
+	   <help_Color_Clusters>clustering is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense or another) to each other than to those in other groups (clusters). This operation clusters the image based on the color.</help_Color_Clusters>
+	   <help_Black_and_White>This filter makes the picture Black and white.</help_Black_and_White>
+	   <help_Color_Overlay>This filter overlay a specific color into the entire image.</help_Color_Overlay>
+	</help>
+	<menu>
+		<menu_run>اجرای برنامه</menu_run>
+		<menu_help>راهنما</menu_help>
+		<menu_language>زبان</menu_language>
+		<menu_exit>خروج</menu_exit>
+	</menu>
+	<functions>
+		<function_Face>چهره</function_Face>
+		<function_Bicycle>دوچرخه</function_Bicycle>
+		<function_Person>انسان</function_Person>
+		<function_Cat>گربه</function_Cat>
+		<function_Dog>سگ</function_Dog>
+		<function_Apple>سیب</function_Apple>
+		<function_Car>ماشین</function_Car>
+		<function_Car_and_Bus>ماشین و اتوبوس</function_Car_and_Bus>
+	
+	</functions>
+	<titles>
+		<title_Load>بازکردن تصاویر</title_Load>
+		<title_Home>خانه</title_Home>
+		<title_Help>راهنما</title_Help>
+		<title_Back>تصویر قبل</title_Back>
+		<title_Next>تصویر بعد</title_Next>
+	</titles>
+	<abouts>
+		<about_WWEST>Westcoast Women in Engineering, Science and Technology (WWEST) is the operating name for the 2015-2020 NSERC Chair for Women in Science and Engineering (CWSE), BC and Yukon Region. Our mission is to engage industry, the community and students to increase the awareness and participation of women and other under-represented groups in Science, Technology, Engineering, and Mathematics (STEM) fields of study and careers. WWEST works regionally and, in conjunction with the other CWSE Chairs, nationally on policy, research, advocacy, facilitation, and pilot programs that support women in science and engineering.</about_WWEST>
+	</abouts>
+</translates>
+

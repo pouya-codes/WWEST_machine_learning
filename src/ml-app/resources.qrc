@@ -1,0 +1,60 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/images/arrow.png</file>
+        <file>data/images/back_hover.png</file>
+        <file>data/images/back_original.png</file>
+        <file>data/images/back_pressed.png</file>
+        <file>data/images/folder_hover.png</file>
+        <file>data/images/folder_original.png</file>
+        <file>data/images/folder_pressed.png</file>
+        <file>data/images/load_images.png</file>
+        <file>data/images/logo.png</file>
+        <file>data/images/next_hover.png</file>
+        <file>data/images/next_original.png</file>
+        <file>data/images/next_pressed.png</file>
+        <file>data/images/logo_dock.png</file>
+        <file>data/models/haarcascade_frontalface_alt.xml</file>
+        <file>data/images/bike_hover.png</file>
+        <file>data/images/bike_original.png</file>
+        <file>data/images/face_hover.png</file>
+        <file>data/images/face_original.png</file>
+        <file>data/images/help_hover.png</file>
+        <file>data/images/help_original.png</file>
+        <file>data/images/home_hover.png</file>
+        <file>data/images/home_original.png</file>
+        <file>data/images/human_hover.png</file>
+        <file>data/images/human_original.png</file>
+        <file>data/images/bike_pressed.png</file>
+        <file>data/images/face_pressed.png</file>
+        <file>data/images/help_pressed.png</file>
+        <file>data/images/home_pressed.png</file>
+        <file>data/images/human_pressed.png</file>
+        <file>data/images/exit_hover.png</file>
+        <file>data/images/exit_original.png</file>
+        <file>data/images/exit_pressed.png</file>
+        <file>data/images/language_hover.png</file>
+        <file>data/images/language_original.png</file>
+        <file>data/images/language_pressed.png</file>
+        <file>data/models/yolov3-tiny.cfg</file>
+        <file>data/models/yolov3-tiny.weights</file>
+        <file>data/models/coco.names</file>
+        <file>data/images/Car _Bus_hover .png</file>
+        <file>data/images/Start_hover.png</file>
+        <file>data/images/apple.png</file>
+        <file>data/images/apple_click.png</file>
+        <file>data/images/apple_hover.png</file>
+        <file>data/images/Car _Bus.png</file>
+        <file>data/images/Car _Bus_click.png</file>
+        <file>data/images/Car.png</file>
+        <file>data/images/Car_click.png</file>
+        <file>data/images/Car_hover.png</file>
+        <file>data/images/cat.png</file>
+        <file>data/images/cat_click.png</file>
+        <file>data/images/cat_hover.png</file>
+        <file>data/images/dog.png</file>
+        <file>data/images/dog_click.png</file>
+        <file>data/images/dog_hover.png</file>
+        <file>data/images/Start_Button.png</file>
+        <file>data/images/Start_click.png</file>
+    </qresource>
+</RCC>
