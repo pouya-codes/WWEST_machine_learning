@@ -1,2 +1,2 @@
 # WWEST_image_processing
-A QT based application for applying simple image processing filters on the images.
+A QT based application for applying simple Computer Vision models on the images.
